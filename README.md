@@ -13,16 +13,16 @@ Async Rust CLI (with an optional full-screen terminal UI) for searching the Anim
 The unified terminal UI walks you through search → select → configure → download without leaving the screen:
 
 ```
-┌ ani-rust  /  Buscar → Seleccionar → Descargar ─────────────────────────────┐
-├──────────────────────────────┬──────────────────────────────────────────────┤
+┌ ani-rust  /  Buscar → Seleccionar → Descargar ───────────────────────────────┐
+├──────────────────────────────┬───────────────────────────────────────────────┤
 │ Resultados                   │ Detalles                                      │
 │ › Case Closed                │ Case Closed                                   │
 │   Case Closed: Special       │ ID: case-closed-5j4se                         │
 │   ...                        │ Episodios: 1147                               │
-│                               │ Año: 1996  Formato: TV  Estado: RELEASING     │
-├──────────────────────────────┴──────────────────────────────────────────────┤
+│                               │ Año: 1996  Formato: TV  Estado: RELEASING    │
+├──────────────────────────────┴───────────────────────────────────────────────┤
 │ ↑/↓: seleccionar · Enter: configurar descarga · Esc: otra búsqueda           │
-└───────────────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 And a finished run reports each episode's outcome:
