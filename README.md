@@ -1,6 +1,6 @@
 # ani-rust
 
-Async Rust CLI (with an optional full-screen terminal UI) for searching the AnimeX catalog, inspecting sources, and bulk-downloading media **you are authorized to save**. No DRM, authentication, paywall, or CAPTCHA bypass is implemented — the tool refuses encrypted/DRM-protected sources outright.
+Async Rust CLI (with an optional full-screen terminal UI) for searching the AnimeX catalog, inspecting sources, and bulk-downloading media. No authentication, paywall, or CAPTCHA bypass is implemented.
 
 <p>
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg">
