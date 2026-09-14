@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "url": "https://playeng.animeapps.top/r2/cachesub/20260727161003720p85893423732366344/index.m3u8",
+      "quality": "auto",
+      "type": "video/mpegurl"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "captions-1",
+      "url": "https://ani10.nukitashi.top/20260727161003720p85893423732366344/sub.vtt",
+      "lang": "",
+      "label": "English",
+      "kind": "captions",
+      "default": true
+    }
+  ],
+  "headers": { "Referer": "https://playeng.animeapps.top/" }
+}
